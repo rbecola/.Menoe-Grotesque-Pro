@@ -181,6 +181,13 @@ i {
   left: 0px;
   top: 3320px;
 }
+.divider3 {
+  position: absolute;
+  width: 1351.28px;
+  height: 84px;
+  left: 46.8px;
+  top: 2928.5px;
+}
 /* .d1 {
   position: absolute;
   width: 367px;
@@ -329,4 +336,51 @@ i {
   text-align: center;
   font-variant: small-caps;
   color: #000000;
+}
+
+.h8 {
+  position: absolute;
+  width: 1348px;
+  height: 25px;
+  left: 50px;
+  top: 2523px;
+  font-size: 27px;
+  letter-spacing: 0.095em;
+  color: #FFFFFF;
+}
+.h9 {
+  position: absolute;
+  width: 1339px;
+  height: 103px;
+  left: 45px;
+  top: 2607px;
+  font-size: 108px;
+  line-height: 100%;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.h10 {
+  position: absolute;
+  width: 1339px;
+  height: 65px;
+  left: 40px;
+  top: 2744px;
+  font-family: Menoe Grotesque Pro;
+  font-style: italic;
+  font-size: 67px;
+  line-height: 100%;
+  letter-spacing: -0.015em;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.h11 {
+  position: absolute;
+  width: 542px;
+  height: 103px;
+  left: 453px;
+  top: 2917px;
+  font-size: 99px;
+  letter-spacing: -0.055em;
+  color: #FFFFFF;
 }
