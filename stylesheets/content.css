@@ -11,14 +11,12 @@ body {
   background: #FFFFFF;
 
 }
-
 .cover1 {
   position: absolute;
   width: 1440px;
   height: 300px;
   background-color: black;
 }
-
 h1 {
   font-family: "MenoeGrotesquePro-Regular";
   position: absolute;
@@ -59,14 +57,10 @@ i {
 }
 .h5_2 {
   position: absolute;
-  /* width: 263px;
-  height: 46px; */
   left: 996px;
   top: 2397px;
   font-size: 48px;
-  /* line-height: 100%; */
   letter-spacing: 0.095em;
-  /* text-transform: lowercase; */
   text-shadow: 1px 0 1px #000,
   0 1px 1px #000,
   -1px 0 1px #000,
@@ -76,13 +70,12 @@ i {
   width: 1440px;
   height: 300px;
   margin:auto;
-  background: #000000;"
+  background: #000000;
 }
 .border {
   width: 1440px;
   border-top:5px solid #FFFFFF;
 }
-
 .block1 {
   position: absolute;
   width: 1440px;
@@ -146,7 +139,6 @@ i {
   top: 3296px;
   background: #FFFFFF;
 }
-
 .block5 {
   position: absolute;
   width: 1440px;
@@ -200,7 +192,6 @@ i {
   position: absolute;
   width: 1440px;
   height: 689.21px;
-  /* left: -259.9px; */
   top: 3318.28px;
 }
 .divider6 {
@@ -215,13 +206,19 @@ i {
   left: 897.51px;
   top: 4061px;
 }
-/* .divider7 {
+.divider8 {
   position: absolute;
-  width: 1440px;
-  height: 5px;
-  top: 456px;
-  background: #FFFFFF;
-} */
+  width: 299px;
+  height: 131.94px;
+  top: 4463.42px;
+}
+.divider9 {
+  position: absolute;
+  width: 1405.5px;
+  height: 775.4px;
+  left: 36px;
+  top: 4701px;
+}
 .rectangle_3 {
   position: absolute;
   width: 1440px;
@@ -232,7 +229,6 @@ i {
 .h3 {
   position: absolute;
   width: 451px;
-  /* height: 387px; */
   left: 832px;
   top: 1420px;
   font-size: 35px;
@@ -305,15 +301,12 @@ i {
 }
 .h4_6 {
   position: absolute;
-  /* width: 90px;
-  height: 165px; */
   left: 1267px;
   top: 1944px;
   font-size: 72px;
   line-height: 92px;
   letter-spacing: 0.04em;
   font-variant: small-caps;
-  /* color: #000000; */
 }
 .h6 {
   position: absolute;
@@ -325,7 +318,7 @@ i {
   text-align: center;
   color: #000000;
 }
-  .h7 {
+.h7 {
   position: absolute;
   width: 872px;
   left: -7px;
@@ -335,18 +328,6 @@ i {
   text-align: center;
   color: #FFFFFF;
 }
-
-  /* .h7_1 {
-  position: absolute;
-  width: 778px;
-  left: 890px;
-  top: 3988px;
-  font-size: 144px;
-  line-height: 142.5%;
-  font-variant: small-caps;
-  color: #000000;
-} */
-
 .h8 {
   position: absolute;
   left: 50px;
@@ -411,9 +392,9 @@ i {
   letter-spacing: 0.04em;
   color: #0C0000;
   text-shadow:
-		-0   -2px 0   #FFFFFF,
-		 0   -2px 0   #FFFFFF,
-		-0    2px 0   #FFFFFF,
+	  -0   -2px 0   #FFFFFF,
+	   0   -2px 0   #FFFFFF,
+	  -0    2px 0   #FFFFFF,
 		 0    2px 0   #FFFFFF,
 		-2px -0   0   #FFFFFF,
 		 2px -0   0   #FFFFFF,
@@ -450,34 +431,97 @@ i {
 }
 .h16 {
   position: absolute;
-width: 872px;
-height: 205px;
-left: 303px;
-top: 4133px;
-font-family: Menoe Grotesque Pro;
-font-style: italic;
-font-size: 144px;
-line-height: 142.5%;
-text-align: center;
-color: #313131;
+  width: 872px;
+  left: 303px;
+  top: 4133px;
+  font-family: Menoe Grotesque Pro;
+  font-style: italic;
+  font-size: 144px;
+  line-height: 142.5%;
+  text-align: center;
+  color: #313131;
 }
 .h17 {
   position: absolute;
-width: 260px;
-height: 205px;
-left: 1174px;
-top: 4133px;
-font-size: 144px;
-line-height: 142.5%;
-color: #FFFFFF;
+  left: 1174px;
+  top: 4133px;
+  font-size: 144px;
+  line-height: 142.5%;
+  color: #FFFFFF;
 }
 .h18 {
   position: absolute;
-  width: 872px;
-  height: 205px;
   left: 2px;
   top: 4278px;
   font-size: 144px;
   line-height: 142.5%;
+  color: #FFFFFF;
+}
+.h19 {
+  position: absolute;
+  width: 346px;
+  height: 205px;
+  left: 849px;
+  top: 4278px;
+  font-size: 144px;
+  line-height: 142.5%;
+  text-align: center;
+  font-variant: small-caps;
+}
+.h20 {
+  position: absolute;
+  width: 173px;
+  height: 205px;
+  left: 1250px;
+  top: 4278px;
+  font-size: 144px;
+  line-height: 142.5%;
+  text-align: center;
+  font-variant: small-caps;
+  color: #A7A7A7;
+}
+.h21 {
+  position: absolute;
+  left: 354px;
+  top: 4423px;
+  font-size: 144px;
+  line-height: 142.5%;
+  font-variant: small-caps;
+  color: #A7A7A7;
+}
+.h22 {
+  position: absolute;
+  left: 1180px;
+  top: 4423px;
+  font-family: Menoe Grotesque Pro;
+  font-style: italic;
+  font-size: 144px;
+  line-height: 142.5%;
+  color: #000000;
+}
+.h23 {
+  position: absolute;
+  left: 674px;
+  top: 4982px;
+  font-size: 48px;
+}
+.h24 {
+  position: absolute;
+  left: 68px;
+  top: 4863px;
+  font-size: 36px;
+  letter-spacing: 0.095em;
+  font-variant: small-caps;
+  color: #FFFFFF;
+
+}
+.h25 {
+    position: absolute;
+  left: 666px;
+  top: 5122px;
+  font-size: 44px;
+  line-height: 57%;
+  letter-spacing: 0.04em;
+  font-variant: small-caps;
   color: #FFFFFF;
 }
