@@ -1,5 +1,5 @@
 html{
-  background: pink;
+  background: #2D2D2D;
   width: 100%;
 }
 body {
@@ -162,6 +162,13 @@ i {
   top: 329px;
   background: #FFFFFF;
 }
+.block8 {
+  position: absolute;
+  width: 1440px;
+  height: 195px;
+  top: 8259px;
+  background: #000000;
+}
 .divider1 {
   position: absolute;
   width: 1440px;
@@ -218,6 +225,20 @@ i {
   height: 775.4px;
   left: 36px;
   top: 4701px;
+}
+.divider10 {
+  position: absolute;
+  width: 1175.9px;
+  height: 979.1px;
+  left: 185px;
+  top: 5074px;
+}
+.divider11 {
+  position: absolute;
+  width: 1325px;
+  height: 800px;
+  left: 36px;
+  top: 5961px;
 }
 .rectangle_3 {
   position: absolute;
@@ -523,5 +544,62 @@ i {
   line-height: 57%;
   letter-spacing: 0.04em;
   font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h26 {
+  position: absolute;
+  left: 588px;
+  top: 5276px;
+  font-size: 96px;
+  line-height: 57%;
+  text-align: center;
+  letter-spacing: 1.64em;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h27 {
+  position: absolute;
+  left: 684px;
+  top: 5284px;
+  font-size: 96px;
+  line-height: 57%;
+  letter-spacing: -0.22em;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h28 {
+  position: absolute;
+  left: 973px;
+  top: 5277px;
+  font-size: 96px;
+  line-height: 57%;
+  letter-spacing: 1.59em;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h29 {
+  position: absolute;
+  left: 1064px;
+  top: 5285px;
+  font-size: 96px;
+  line-height: 57%;
+  letter-spacing: -0.22em;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h30 {
+  position: absolute;
+  left: 193px;
+  top: 6697px;
+  font-size: 64px;
+  display: flex;
+  color: #FFFFFF;
+}
+.h31 {
+  position: absolute;
+  left: 952px;
+  top: 6697px;
+  font-size: 64px;
+  display: flex;
   color: #FFFFFF;
 }
