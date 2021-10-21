@@ -384,3 +384,27 @@ i {
   letter-spacing: -0.055em;
   color: #FFFFFF;
 }
+.h12 {
+  position: absolute;
+  width: 189px;
+  height: 111px;
+  left: 458px;
+  top: 1594px;
+  font-size: 35px;
+  line-height: 105.5%;
+  text-align: center;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h13 {
+  position: absolute;
+  width: 84px;
+  height: 74px;
+  left: 252px;
+  top: 1640px;
+  font-size: 35px;
+  line-height: 105.5%;
+  text-align: center;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
