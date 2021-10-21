@@ -1,8 +1,11 @@
+html{
+  background: pink;
+  width: 100%;
+}
 body {
   font-family: "MenoeGrotesquePro-Regular";
   position: relative;
   width: 1440px;
-  height: 100%;
   display: block;
   margin: 0 auto;
   background: #FFFFFF;
@@ -27,7 +30,6 @@ h1 {
 .h2 {
   position: absolute;
   width: 1384px;
-  height: 72px;
   left: 28px;
   top: 355px;
   font-size: 36px;
@@ -39,8 +41,6 @@ i {
 }
 .h5 {
   position: absolute;
-  width: 1123px;
-  height: 46px;
   left: 121px;
   top: 2397px;
   font-size: 48px;
@@ -50,12 +50,8 @@ i {
   }
 .h5_1 {
   position: absolute;
-  width: 196px;
-  height: 46px;
   left: 755px;
   top: 2397px;
-  font-style: normal;
-  font-weight: normal;
   font-size: 48px;
   letter-spacing: 0.095em;
   font-variant: small-caps;
@@ -63,14 +59,14 @@ i {
 }
 .h5_2 {
   position: absolute;
-  width: 263px;
-  height: 46px;
+  /* width: 263px;
+  height: 46px; */
   left: 996px;
   top: 2397px;
   font-size: 48px;
-  line-height: 100%;
+  /* line-height: 100%; */
   letter-spacing: 0.095em;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
   text-shadow: 1px 0 1px #000,
   0 1px 1px #000,
   -1px 0 1px #000,
@@ -153,9 +149,9 @@ i {
 
 .block5 {
   position: absolute;
-  width: 2134px;
+  width: 1440px;
   height: 102px;
-  left: -14px;
+  left: 0px;
   top: 2365px;
   background: #FFFFFF;
 }
@@ -166,7 +162,14 @@ i {
   top: 2498px;
   background: #000000;
 }
-
+.block7 {
+  position: absolute;
+  width: 1440px;
+  height: 127px;
+  left: 0px;
+  top: 329px;
+  background: #FFFFFF;
+}
 .divider1 {
   position: absolute;
   width: 1440px;
@@ -188,37 +191,48 @@ i {
   left: 46.8px;
   top: 2928.5px;
 }
-/* .d1 {
+.divider4 {
   position: absolute;
-  width: 367px;
-  height: 367px;
-  left: 1256px;
-  top: 1061px;
-  background: #000000;
-  border-radius: 50%;
+  width: 1440px;
+  top: 482px;
 }
-.d2 {
+.divider5 {
   position: absolute;
-  width: 283px;
-  height: 283px;
-  left: 419px;
-  top: 1503px;
-  background: #000000;
-  border-radius: 50%;
-  }
-.d3 {
+  width: 1440px;
+  height: 689.21px;
+  /* left: -259.9px; */
+  top: 3318.28px;
+}
+.divider6 {
   position: absolute;
-  width: 161px;
-  height: 161px;
-  left: 221px;
-  top: 1588px;
-  background: #000000;
-  border-radius: 50%;
-  } */
+  width: 1440px;
+  top: 482px;
+}
+.divider7 {
+  position: absolute;
+  width: 542px;
+  height: 72px;
+  left: 897.51px;
+  top: 4061px;
+}
+/* .divider7 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 456px;
+  background: #FFFFFF;
+} */
+.rectangle_3 {
+  position: absolute;
+  width: 1440px;
+  height: 5px;
+  top: 482px;
+  background: #FFFFFF;
+}
 .h3 {
   position: absolute;
   width: 451px;
-  height: 387px;
+  /* height: 387px; */
   left: 832px;
   top: 1420px;
   font-size: 35px;
@@ -227,8 +241,6 @@ i {
 }
 .h4 {
   position: absolute;
-  width: 288px;
-  height: 72px;
   left: 1050px;
   top: 2143px;
   font-size: 72px;
@@ -293,20 +305,19 @@ i {
 }
 .h4_6 {
   position: absolute;
-  width: 90px;
-  height: 165px;
+  /* width: 90px;
+  height: 165px; */
   left: 1267px;
   top: 1944px;
   font-size: 72px;
   line-height: 92px;
   letter-spacing: 0.04em;
   font-variant: small-caps;
-  color: #000000;
+  /* color: #000000; */
 }
 .h6 {
   position: absolute;
   width: 865px;
-  height: 555px;
   left: 285px;
   top: 3433px;
   font-size: 72px;
@@ -317,7 +328,6 @@ i {
   .h7 {
   position: absolute;
   width: 872px;
-  height: 205px;
   left: -7px;
   top: 3988px;
   font-size: 144px;
@@ -325,59 +335,46 @@ i {
   text-align: center;
   color: #FFFFFF;
 }
-  .h7_1 {
+
+  /* .h7_1 {
   position: absolute;
   width: 778px;
-  height: 205px;
   left: 890px;
   top: 3988px;
   font-size: 144px;
   line-height: 142.5%;
-  text-align: center;
   font-variant: small-caps;
   color: #000000;
-}
+} */
 
 .h8 {
   position: absolute;
-  width: 1348px;
-  height: 25px;
   left: 50px;
-  top: 2523px;
+  top: 2535px;
   font-size: 27px;
   letter-spacing: 0.095em;
   color: #FFFFFF;
 }
 .h9 {
   position: absolute;
-  width: 1339px;
-  height: 103px;
   left: 45px;
   top: 2607px;
   font-size: 108px;
-  line-height: 100%;
   letter-spacing: 0.085em;
-  text-transform: uppercase;
   color: #FFFFFF;
 }
 .h10 {
   position: absolute;
-  width: 1339px;
-  height: 65px;
   left: 40px;
   top: 2744px;
   font-family: Menoe Grotesque Pro;
   font-style: italic;
   font-size: 67px;
-  line-height: 100%;
   letter-spacing: -0.015em;
-  text-transform: capitalize;
   color: #FFFFFF;
 }
 .h11 {
   position: absolute;
-  width: 542px;
-  height: 103px;
   left: 453px;
   top: 2917px;
   font-size: 99px;
@@ -386,12 +383,10 @@ i {
 }
 .h12 {
   position: absolute;
-  width: 189px;
-  height: 111px;
   left: 458px;
   top: 1594px;
   font-size: 35px;
-  line-height: 105.5%;
+  line-height: 119%;
   text-align: center;
   font-variant: small-caps;
   color: #FFFFFF;
@@ -406,5 +401,83 @@ i {
   line-height: 105.5%;
   text-align: center;
   font-variant: small-caps;
+  color: #FFFFFF;
+}
+.h14 {
+  position: absolute;
+  left: 52px;
+  top: 3144px;
+  font-size: 80px;
+  letter-spacing: 0.04em;
+  color: #0C0000;
+  text-shadow:
+		-0   -2px 0   #FFFFFF,
+		 0   -2px 0   #FFFFFF,
+		-0    2px 0   #FFFFFF,
+		 0    2px 0   #FFFFFF,
+		-2px -0   0   #FFFFFF,
+		 2px -0   0   #FFFFFF,
+		-2px  0   0   #FFFFFF,
+		 2px  0   0   #FFFFFF,
+		-1px -2px 0   #FFFFFF,
+		 1px -2px 0   #FFFFFF,
+		-1px  2px 0   #FFFFFF,
+		 1px  2px 0   #FFFFFF,
+		-2px -1px 0   #FFFFFF,
+		 2px -1px 0   #FFFFFF,
+		-2px  1px 0   #FFFFFF,
+		 2px  1px 0   #FFFFFF,
+		-2px -2px 0   #FFFFFF,
+		 2px -2px 0   #FFFFFF,
+		-2px  2px 0   #FFFFFF,
+		 2px  2px 0   #FFFFFF,
+		-2px -2px 0   #FFFFFF,
+		 2px -2px 0   #FFFFFF,
+		-2px  2px 0   #FFFFFF,
+		 2px  2px 0   #FFFFFF;
+}
+.h15 {
+  position: absolute;
+  width: 346px;
+  height: 205px;
+  left: -9px;
+  top: 4133px;
+  font-size: 144px;
+  line-height: 142.5%;
+  text-align: center;
+  font-variant: small-caps;
+  color: #000000;
+}
+.h16 {
+  position: absolute;
+width: 872px;
+height: 205px;
+left: 303px;
+top: 4133px;
+font-family: Menoe Grotesque Pro;
+font-style: italic;
+font-size: 144px;
+line-height: 142.5%;
+text-align: center;
+color: #313131;
+}
+.h17 {
+  position: absolute;
+width: 260px;
+height: 205px;
+left: 1174px;
+top: 4133px;
+font-size: 144px;
+line-height: 142.5%;
+color: #FFFFFF;
+}
+.h18 {
+  position: absolute;
+  width: 872px;
+  height: 205px;
+  left: 2px;
+  top: 4278px;
+  font-size: 144px;
+  line-height: 142.5%;
   color: #FFFFFF;
 }
