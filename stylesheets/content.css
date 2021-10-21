@@ -9,7 +9,6 @@ body {
   display: block;
   margin: 0 auto;
   background: #FFFFFF;
-
 }
 .cover1 {
   position: absolute;
@@ -19,17 +18,17 @@ body {
 }
 h1 {
   font-family: "MenoeGrotesquePro-Regular";
-  position: absolute;
+  position: relative;
   left: 184px;
   top: 113px;
   font-size: 100px;
   color: #FFFFFF;
 }
 .h2 {
-  position: absolute;
+  position: relative;
   width: 1384px;
   left: 28px;
-  top: 355px;
+  top: 50px;
   font-size: 36px;
   text-align: center;
   color: #000000;
@@ -140,11 +139,11 @@ i {
   background: #FFFFFF;
 }
 .block5 {
-  position: absolute;
+  position: relative;
   width: 1440px;
   height: 102px;
   left: 0px;
-  top: 2365px;
+  top: 1470px;
   background: #FFFFFF;
 }
 .block6 {
@@ -166,7 +165,7 @@ i {
   position: absolute;
   width: 1440px;
   height: 195px;
-  top: 8259px;
+  top: 8010px;
   background: #000000;
 }
 .divider1 {
@@ -179,7 +178,6 @@ i {
 .divider2 {
   position: absolute;
   width: 1440px;
-  height: 4938px;
   left: 0px;
   top: 3320px;
 }
@@ -240,6 +238,13 @@ i {
   left: 36px;
   top: 5961px;
 }
+.divider12 {
+  position: absolute;
+  width: 1122.47px;
+  height: 747.22px;
+  left: 100px;
+  top: 6806px;
+}
 .rectangle_3 {
   position: absolute;
   width: 1440px;
@@ -248,10 +253,10 @@ i {
   background: #FFFFFF;
 }
 .h3 {
-  position: absolute;
+  position: relative;
   width: 451px;
   left: 832px;
-  top: 1420px;
+  top: 1050px;
   font-size: 35px;
   line-height: 154%;
   color: #FFFFFF;
@@ -330,45 +335,45 @@ i {
   font-variant: small-caps;
 }
 .h6 {
-  position: absolute;
+  position: relative;
   width: 865px;
   left: 285px;
-  top: 3433px;
+  top: 2140px;
   font-size: 72px;
   line-height: 154%;
   text-align: center;
   color: #000000;
 }
 .h7 {
-  position: absolute;
+  position: relative;
   width: 872px;
   left: -7px;
-  top: 3988px;
+  top: 2162px;
   font-size: 144px;
   line-height: 142.5%;
   text-align: center;
   color: #FFFFFF;
 }
 .h8 {
-  position: absolute;
+  position: relative;
   left: 50px;
-  top: 2535px;
+  top: 1640px;
   font-size: 27px;
   letter-spacing: 0.095em;
   color: #FFFFFF;
 }
 .h9 {
-  position: absolute;
+  position: relative;
   left: 45px;
-  top: 2607px;
+  top: 1690px;
   font-size: 108px;
   letter-spacing: 0.085em;
   color: #FFFFFF;
 }
 .h10 {
-  position: absolute;
+  position: relative;
   left: 40px;
-  top: 2744px;
+  top: 1720px;
   font-family: Menoe Grotesque Pro;
   font-style: italic;
   font-size: 67px;
@@ -376,29 +381,28 @@ i {
   color: #FFFFFF;
 }
 .h11 {
-  position: absolute;
+  position: relative;
   left: 453px;
-  top: 2917px;
+  top: 1830px;
   font-size: 99px;
   letter-spacing: -0.055em;
   color: #FFFFFF;
 }
 .h12 {
-  position: absolute;
-  left: 458px;
-  top: 1594px;
+  position: relative;
+  left: -166px;
+  top: 895px;
   font-size: 35px;
   line-height: 119%;
   text-align: center;
   font-variant: small-caps;
-  color: #FFFFFF;
+  color: #FFFFFF
 }
 .h13 {
-  position: absolute;
-  width: 84px;
+  position: relative;
   height: 74px;
-  left: 252px;
-  top: 1640px;
+  left: -425px;
+  top: 820px;
   font-size: 35px;
   line-height: 105.5%;
   text-align: center;
@@ -406,9 +410,9 @@ i {
   color: #FFFFFF;
 }
 .h14 {
-  position: absolute;
+  position: relative;
   left: 52px;
-  top: 3144px;
+  top: 1960px;
   font-size: 80px;
   letter-spacing: 0.04em;
   color: #0C0000;
