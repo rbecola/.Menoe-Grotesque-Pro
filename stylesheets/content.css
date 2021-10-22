@@ -82,6 +82,15 @@ i {
   top: 306px;
   background: #000000;
 }
+.h3 {
+  position: relative;
+  width: 451px;
+  left: 832px;
+  top: 1050px;
+  font-size: 35px;
+  line-height: 154%;
+  color: #FFFFFF;
+}
 .block2 {
   position: absolute;
   width: 1440px;
@@ -96,6 +105,16 @@ i {
   top: 2339px;
   background: #000000;
 }
+.h6 {
+  position: relative;
+  width: 865px;
+  left: 285px;
+  top: 2140px;
+  font-size: 72px;
+  line-height: 154%;
+  text-align: center;
+
+}
 .block3_1 {
   position: absolute;
   width: 1440px;
@@ -109,6 +128,16 @@ i {
   height: 5px;
   top: 2334px;
   background: #FFFFFF;
+}
+.h7 {
+  position: relative;
+  width: 872px;
+  left: -7px;
+  top: 2162px;
+  font-size: 144px;
+  line-height: 142.5%;
+  text-align: center;
+  color: #FFFFFF;
 }
 .block4_1 {
   position: absolute;
@@ -165,7 +194,7 @@ i {
   position: absolute;
   width: 1440px;
   height: 195px;
-  top: 8010px;
+  top: 7942px;
   background: #000000;
 }
 .divider1 {
@@ -236,14 +265,14 @@ i {
   width: 1325px;
   height: 800px;
   left: 36px;
-  top: 5961px;
+  top: 6150px;
 }
 .divider12 {
   position: absolute;
   width: 1122.47px;
   height: 747.22px;
   left: 100px;
-  top: 6806px;
+  top: 6931px;
 }
 .rectangle_3 {
   position: absolute;
@@ -252,15 +281,7 @@ i {
   top: 482px;
   background: #FFFFFF;
 }
-.h3 {
-  position: relative;
-  width: 451px;
-  left: 832px;
-  top: 1050px;
-  font-size: 35px;
-  line-height: 154%;
-  color: #FFFFFF;
-}
+
 .h4 {
   position: absolute;
   left: 1050px;
@@ -334,26 +355,7 @@ i {
   letter-spacing: 0.04em;
   font-variant: small-caps;
 }
-.h6 {
-  position: relative;
-  width: 865px;
-  left: 285px;
-  top: 2140px;
-  font-size: 72px;
-  line-height: 154%;
-  text-align: center;
-  color: #000000;
-}
-.h7 {
-  position: relative;
-  width: 872px;
-  left: -7px;
-  top: 2162px;
-  font-size: 144px;
-  line-height: 142.5%;
-  text-align: center;
-  color: #FFFFFF;
-}
+
 .h8 {
   position: relative;
   left: 50px;
@@ -541,7 +543,7 @@ i {
 
 }
 .h25 {
-    position: absolute;
+  position: absolute;
   left: 666px;
   top: 5122px;
   font-size: 44px;
@@ -594,7 +596,7 @@ i {
 .h30 {
   position: absolute;
   left: 193px;
-  top: 6697px;
+  top: 6840px;
   font-size: 64px;
   display: flex;
   color: #FFFFFF;
@@ -602,8 +604,46 @@ i {
 .h31 {
   position: absolute;
   left: 952px;
-  top: 6697px;
+  top: 6840px;
   font-size: 64px;
   display: flex;
   color: #FFFFFF;
+}
+.h32 {
+  position: relative;
+  left: 496px;
+  top: 5850px;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.h33 {
+  position: relative;
+  width: 1024px;
+  left: 210px;
+  top: 4080px;
+  font-size: 36px;
+  color: #a2a2a2;
+}
+.block9 {
+  position: relative;
+  width: 1440px;
+  height: 5px;
+  top: 5880px;
+  background: #FFFFFF;
+}
+.block10 {
+  position: relative;
+  width: 1440px;
+  height: 5px;
+  top: 5760px;
+  background: #FFFFFF;
+}
+.h34 {
+  position: absolute;
+  left: 37px;
+  top: 5570px;
+  font-size: 288px;
+  line-height: 100%;
+  letter-spacing: 3.465em;
+  color: #393939;
 }
