@@ -201,13 +201,11 @@ i {
   position: absolute;
   width: 1440px;
   height: 1887px;
-  left: 0px;
   top: 456px;
 }
 .divider2 {
   position: absolute;
   width: 1440px;
-  left: 0px;
   top: 3320px;
 }
 .divider3 {
@@ -376,8 +374,6 @@ i {
   position: relative;
   left: 40px;
   top: 1720px;
-  font-family: Menoe Grotesque Pro;
-  font-style: italic;
   font-size: 67px;
   letter-spacing: -0.015em;
   color: #FFFFFF;
@@ -385,7 +381,7 @@ i {
 .h11 {
   position: relative;
   left: 453px;
-  top: 1830px;
+  top: 1835px;
   font-size: 99px;
   letter-spacing: -0.055em;
   color: #FFFFFF;
@@ -461,7 +457,6 @@ i {
   width: 872px;
   left: 303px;
   top: 4133px;
-  font-family: Menoe Grotesque Pro;
   font-style: italic;
   font-size: 144px;
   line-height: 142.5%;
@@ -520,7 +515,6 @@ i {
   position: absolute;
   left: 1180px;
   top: 4423px;
-  font-family: Menoe Grotesque Pro;
   font-style: italic;
   font-size: 144px;
   line-height: 142.5%;
